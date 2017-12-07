@@ -4,3 +4,7 @@ welcome to recipes file
 
 kheer
 pasta
+
+chicken fry
+
+thanks
